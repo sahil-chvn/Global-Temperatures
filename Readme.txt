@@ -20,3 +20,7 @@ Github Account
 The repository for the project will be found at :
 
 https://github.com/sahil-chvn/Global-Temperatures
+
+**********
+
+Use continent2.csv file to import missing dataset file.
